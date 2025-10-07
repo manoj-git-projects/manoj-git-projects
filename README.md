@@ -35,8 +35,9 @@ Focused on **RAG (Retrieval-Augmented Generation)**, **Vector Databases**, and *
 ---
 
 ### 📫 Connect with Me  
-[![LinkedIn](www.linkedin.com/in/manoj-panicker)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj_Panicker-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-panicker)  
 [![GitHub](https://img.shields.io/badge/GitHub-manoj--git--projects-black?logo=github)](https://github.com/manoj-git-projects)  
+
 
 ---
 
