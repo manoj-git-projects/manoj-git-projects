@@ -9,7 +9,7 @@ Focused on **RAG (Retrieval-Augmented Generation)**, **Vector Databases**, and *
 - 💼 Building scalable data & AI systems using **Databricks**, **Azure**, and **Palantir Foundry (AIP)**  
 - 🧩 Experienced in **PySpark**, **Airflow**, **Docker**, and **Modern Data Architectures**  
 - 🔍 Exploring **LLM integration**, **semantic search**, and **AI-driven ETL** pipelines  
-- 🌍 Based in **Abu Dhabi, UAE** | **SAFe® 6.0 Certified**  
+- 🌍 Based in **Abu Dhabi, UAE** | **SAFe® 6.0 Practioner**  
 - 🤝 Passionate about bridging **Data Engineering ⇢ AI Engineering**
 
 ---
